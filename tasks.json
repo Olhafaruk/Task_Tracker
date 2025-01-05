@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "title": "Ausbildung",
+        "description": "Python Kurs",
+        "status": "Open",
+        "due_date": "2025-06-20",
+        "assignee": "Olga",
+        "progress": 0
+    }
+]
